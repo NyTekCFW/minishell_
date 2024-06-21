@@ -1,1 +1,2 @@
-# minishell_
+# minishell
+Write a small shell
